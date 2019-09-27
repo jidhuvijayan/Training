@@ -20,7 +20,7 @@ email_list=["anubhav.yadav@fullcontact.com",
     "bimsha@fullcontact.com",
     "haritha@fullcontact.com"
    ]
-api_key ="luN3c4FF1bBKqx7qk7fF2nVGGz8klDzy"
+api_key 
 if __name__ == '__main__':
 
     def get_person_data_for_list(email_list,api_key):
